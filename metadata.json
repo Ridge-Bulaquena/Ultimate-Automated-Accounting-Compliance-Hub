@@ -1,0 +1,8 @@
+{
+  "name": "RuleKeeper: Ultimate Accounting & Compliance Hub",
+  "description": "An AI-powered multi-agent system replacing traditional accounting and compliance teams with 12 specialized agents performing recursive bookkeeping, tax computation, and regulatory auditing.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
